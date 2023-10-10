@@ -1,6 +1,6 @@
 # Lightweight Vision Transformer with Bidirectional Interaction
 
-Official code of "Lightweight Vision Transformer with Bidirectional Interaction"(Arxiv2023)
+Official code of "Lightweight Vision Transformer with Bidirectional Interaction"
 
 [Arxiv](https://arxiv.org/abs/2306.00396)
 
