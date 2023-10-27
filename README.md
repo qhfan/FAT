@@ -48,3 +48,15 @@ more details can be found in ```classification```, ```detection``` and ```segmen
 ## Acknowledgement
 
 Our code is built upon [DeiT](https://github.com/facebookresearch/deit), [Swin](https://github.com/microsoft/Swin-Transformer), [LIT](https://github.com/ziplab/LIT), [LITv2](https://github.com/ziplab/LITv2) and [RepLKNet](https://github.com/MegEngine/RepLKNet), we thank the authors for their open-sourced code.
+
+## Citation
+
+If you use FAT in your research, please consider the following BibTeX entry and giving us a star:
+```BibTeX
+@inproceedings{fan2023fat,
+  title={Lightweight Vision Transformer with Bidirectional Interaction},
+  author={Fan, Qihang and Huang, Huaibo and Zhou, Xiaoqiang and He, Ran},
+  booktitle={NeurIPS},
+  year={2023}
+}
+```
